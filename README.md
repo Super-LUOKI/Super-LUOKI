@@ -2,7 +2,7 @@
 - 👀 Nice to meet you!
 - 🌱 Nice to meet you!
 - 💞️ Nice to meet you!
-- 📫 luoki1313@163.com
+- 📫 luoki1313@gmail.com
 
 <!---
 Super-LUOKI/Super-LUOKI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
